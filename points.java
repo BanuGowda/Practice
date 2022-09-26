@@ -6,9 +6,9 @@ class Points
         {
             for(int j=1;j<=4;j++)
             {
-                System.out.line("*");
+                System.out.println("*");
             }
-            System.out.line();
+            System.out.println();
         }
     }
 }
